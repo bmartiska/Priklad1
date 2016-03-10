@@ -1,11 +1,11 @@
 # Priklad1
 
 
-prvy priklad
+**prvy priklad**
 
 
 BM
 
-Meranie tepelnej vodivosti
+~~Meranie tepelnej vodivosti~~
 
 15.4.
