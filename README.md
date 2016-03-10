@@ -11,3 +11,7 @@ BM
 15.4.
 
 Dalsia zmena
+
+stav teoretickej
+
+stav praktickej
