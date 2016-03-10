@@ -9,3 +9,5 @@ BM
 ~~Bakalarska praca~~
 
 15.4.
+
+Dalsia zmena
