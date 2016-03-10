@@ -6,6 +6,6 @@
 
 BM
 
-~~Meranie tepelnej vodivosti~~
+~~Bakalarska praca~~
 
 15.4.
